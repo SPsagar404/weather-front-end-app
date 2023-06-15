@@ -1,34 +1,17 @@
-
-
-.card{
-    background-color: ghostwhite;
-    width: 90vh;
-    font-family:  'Poppins', sans-serif;
-}
-
-.img-fluid{
-    width: 100px;
-    height: 100px;
-    margin-left: 110px;
-    margin-top: fill;
-    padding: 0px;
-}
-
-.city-country{
-    text-align: center;
-    margin: 10px 10px 10px 10px;
-}
-
-.temperature{
-    font-size: 40px;
-    margin: 10px 10px 10px 110px;
-}
-
-.description{
-    font-size: 40px;
-    align-content: center;
-}
-
 .icon{
     color: steelblue;
+}
+
+h5{
+    font-size: 50px;
+}
+
+.weather-img{
+    width: auto;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 40px;
 }
