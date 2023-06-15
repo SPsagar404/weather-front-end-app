@@ -1,8 +1,9 @@
 body {
   margin: 0;
   background-image: url("./assets/images/26302.jpg");
-  background-size: auto 100%;
+  background-size:cover;
   background-repeat: no-repeat;
+  background-position: center;
   
 
 }
