@@ -24,4 +24,5 @@ class WeatherService {
     }
 }
 
+// eslint-disable-next-line
 export default new WeatherService();
